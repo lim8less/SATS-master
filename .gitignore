@@ -1,0 +1,7 @@
+predictions.json
+traffic_data4.csv
+traffic_light_logic.xml
+sumo.log
+sumo2.log
+scalers.pkl
+traffic_light_model.h5
